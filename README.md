@@ -60,4 +60,4 @@ Hamarosan nyílik a hivatalos szerver, ahol segíthetünk és fogadjuk az ötlet
 
 ## 📜 Licensz
 
-MIT License – részletek a `LICENSE` fájlban.
+GNU License – részletek a `LICENSE` fájlban.
