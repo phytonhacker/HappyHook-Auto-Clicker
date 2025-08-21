@@ -40,7 +40,7 @@ Ha bármilyen hibát észlelsz, nyiss ticketet a hivatalos Discord szerverünkö
 > ℹ️ **Alapértelmezett gyorsbillentyűk:**  
 > - `F6` – Kattintás indítása/leállítása  
 > - `F7` – Auto Matikus nyomvatartás
-
+> - `F8` – Macro be kapcsolása
 ---
 
 ## ⚠️ Felelős használat
